@@ -8,6 +8,7 @@ import "./js/post.js";
 import "./js/put.js";
 import "./js/patch.js";
 import "./js/delete.js";
+import "./js/render-arcticles.js"
 
 document.querySelector('#app').innerHTML = `
   <div>
